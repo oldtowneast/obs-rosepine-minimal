@@ -1,1 +1,1 @@
-# obs-rosepine-minimal
+## OBS x Minimal x Rosé Pine
